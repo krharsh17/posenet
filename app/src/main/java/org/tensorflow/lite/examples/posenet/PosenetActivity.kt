@@ -64,7 +64,7 @@ import org.tensorflow.lite.examples.posenet.lib.BodyPart
 import org.tensorflow.lite.examples.posenet.lib.Person
 import org.tensorflow.lite.examples.posenet.lib.Posenet
 
-class PosenetActivity :
+public class PosenetActivity :
     Fragment(),
     ActivityCompat.OnRequestPermissionsResultCallback {
 
